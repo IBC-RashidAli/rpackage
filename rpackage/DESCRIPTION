@@ -1,9 +1,8 @@
 Package: rpackage
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.3.3)
-License: What license is it under?
-Encoding: UTF-8
+Title: Hello
+Version: 0.1
+Authors@R: Rashid Ali <r.ali@inboxbiz.com>
+Description: this is my first package so it simply prints Hello.
+Depends: R (>= 3.3.0)
+License: >r.ali
 LazyData: true
