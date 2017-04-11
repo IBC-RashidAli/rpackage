@@ -3,6 +3,6 @@ Title: Hello
 Version: 0.1
 Authors@R: Rashid Ali <r.ali@inboxbiz.com>
 Description: this is my first package so it simply prints Hello.
-Depends: R (>= 3.3.0)
+Depends: R (>= 2.0.1)
 License: >r.ali
 LazyData: true
