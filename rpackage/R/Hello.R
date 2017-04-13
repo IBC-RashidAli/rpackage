@@ -9,6 +9,5 @@
 
 hello <- function (fname , last_name ) {
   cat (paste("Hello ",fname,last_name))
-  
-  
-}
+  }
+ 

@@ -1,8 +1,8 @@
 Package: rpackage
 Title: Hello
 Version: 0.1
-Authors@R: Rashid Ali <r.ali@inboxbiz.com>
+Authors@R: Rashid<r.ali@inboxbiz.com>
 Description: this is my first package so it simply prints Hello.
 Depends: R (>= 2.0.1)
-License: >r.ali
+License: GPL (>= 2)
 LazyData: true
