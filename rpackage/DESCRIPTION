@@ -4,7 +4,7 @@ Title: Hello
 Version: 0.1
 Date: 2017-04-13
 Author: Ali
-Maintainer: person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Maintainer: Ali
 Description: More about what it does (maybe more than one line)
 License: GPL (<=2)
 LazyData: TRUE
